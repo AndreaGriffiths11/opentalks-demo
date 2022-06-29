@@ -233,7 +233,7 @@
     "grunt-cli": "^1.3.2",
     "http-server": "^0.12.3",
     "jasmine": "^3.6.1",
-    "jasmine-core": "^3.6.0",
+    "jasmine-core": "^4.2.0",
     "jasmine-reporters": "^2.3.2",
     "jest": "^26.2.2",
     "mocha": "^8.1.1",
